@@ -1,0 +1,138 @@
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\PracticoClase1.exe
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\PracticoClase1.deps.json
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\PracticoClase1.runtimeconfig.json
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\PracticoClase1.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\PracticoClase1.pdb
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\BusinessLayer.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Shared.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\BusinessLayer.pdb
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\bin\Debug\net7.0\Shared.pdb
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\obj\Debug\net7.0\PracticoClase1.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\obj\Debug\net7.0\PracticoClase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\obj\Debug\net7.0\PracticoClase1.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\obj\Debug\net7.0\PracticoClase1.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\obj\Debug\net7.0\PracticoClase1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\obj\Debug\net7.0\PracticoClase1.csproj.CopyComplete
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\obj\Debug\net7.0\PracticoClase1.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\obj\Debug\net7.0\refint\PracticoClase1.dll
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\obj\Debug\net7.0\PracticoClase1.pdb
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\obj\Debug\net7.0\PracticoClase1.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Practico 3\practico1-Practico2\PracticoClase1\obj\Debug\net7.0\ref\PracticoClase1.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\PracticoClase1.exe
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\PracticoClase1.deps.json
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\PracticoClase1.runtimeconfig.json
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\PracticoClase1.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\PracticoClase1.pdb
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\BusinessLayer.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Shared.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\BusinessLayer.pdb
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\bin\Debug\net7.0\Shared.pdb
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\obj\Debug\net7.0\PracticoClase1.csproj.AssemblyReference.cache
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\obj\Debug\net7.0\PracticoClase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\obj\Debug\net7.0\PracticoClase1.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\obj\Debug\net7.0\PracticoClase1.AssemblyInfo.cs
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\obj\Debug\net7.0\PracticoClase1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\obj\Debug\net7.0\PracticoClase1.csproj.CopyComplete
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\obj\Debug\net7.0\PracticoClase1.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\obj\Debug\net7.0\refint\PracticoClase1.dll
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\obj\Debug\net7.0\PracticoClase1.pdb
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\obj\Debug\net7.0\PracticoClase1.genruntimeconfig.cache
+C:\Users\MSI\Documents\Practico3NET\PracticoClase1\obj\Debug\net7.0\ref\PracticoClase1.dll
